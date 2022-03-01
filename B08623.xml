@@ -1,0 +1,230 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the High Court in Parliament a vindication of the Protestant religion, or, Of the innocency of the martyrs against the Pope's supremacy and against the errors of the Church of Rome.</title>
+            <author>Carew, Abel, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08623</idno>
+            <idno type="STC">Wing C540A</idno>
+            <idno type="STC">ESTC R173393</idno>
+            <idno type="EEBO-CITATION">62369062</idno>
+            <idno type="OCLC">ocm 62369062</idno>
+            <idno type="VID">187817</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08623)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187817)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2846:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the High Court in Parliament a vindication of the Protestant religion, or, Of the innocency of the martyrs against the Pope's supremacy and against the errors of the Church of Rome.</title>
+                  <author>Carew, Abel, 17th cent.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to Abel Carew. Cf. Wing (2nd ed.).</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+                  <note>Bound and filmed wtih Wing C540B: To the honourable, the Commons in England in Parliament assembled : the humble petition of Abel Carew, an excluded door-keeper from this honourable house. [London : s.n., 1690].</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anti-Catholicism --  Great Britain --  Early works to 1800.</term>
+               <term>Catholic Church --  England --  Controversial literature --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:187817:1"/>
+            <pb facs="tcp:187817:1"/>
+            <pb facs="tcp:187817:2"/>
+            <pb n="1" facs="tcp:187817:2"/>
+            <head>
+               <hi>TO THE High Court of Parliament.</hi> A Vindication of the <hi>Proteſtant Religion,</hi> or of the Innocency of the Martyrs, againſt the Pope's Supremacy, and againſt the Errors of the Church of <hi>Rome.</hi>
+            </head>
+            <opener>Humbly Sheweth,</opener>
+            <p>WITH all humble Submiſſion to the Supreme Authority, and to all my Superiors, hoping that no Proteſtant whatſoever will be offended at me, and Praying for all your Honours favourable Conſtruction of me, (there is an old ſaying, <hi>To ſpeak Truth is to ſhame the Devil,</hi> yea, and the Pope too, but I am for a Veneration to Superiority, and ſo I am for the Proteſtant Religion to be Eſteemed above the Po<g ref="char:EOLhyphen"/>piſh Religion, or I am for the Tripple Crown to be kept under the Proteſtants,) and though a Pro<g ref="char:EOLhyphen"/>teſtant, a Presbyterian, a Papiſt, or an Atheiſt, or a <hi>Muggletonian,</hi> (as if Mony and Secular Intereſt makes one Religion as good as the other, or all Religions alike,) or it is no matter what Religion, or of what any Man is, if he has but a Sum of Mony to purchaſe a Place, as if Mony was the God of all Honeſty and Religion, in buying and ſelling of Places; and there be too many that will make a Scoff and a Scorn of Religion, as if there was neither God, Heaven, or Hell, as it is in 2 <hi>Pet.</hi> 3.3, 4. And ſo they are apt to look upon Religion to be a Politick Invention of our Forefath<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s whi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h is in our Veneration; and if a poor Man talks of Religion, how will ſome Ridicule and make a <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ſt and a Scorn of him, as to repreſent him to be a Madman, or a Fop, or ſome ſuch a kind of a Fel<g ref="char:EOLhyphen"/>low: And though the Blood of the Martyrs Cries aloud for Vengeance, and there is no doubt but that Juſtice will be Impartially Adminiſtred, without any reſpect of Perſons, and that Ve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nce ſhall be Executed upon the Pope at the great Tribunal of the whole World; yet c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rtainly in this World the Innocency of the Martyrs ought to be regarded; and accordingly, Loyalty to the King and Queen's Moſt Excellent Majeſties, and of Their Deſign in coming into this Land <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or the Belief of all the Proteſtants in <hi>England</hi> againſt Popery, ought to be regarded above and before any thing whatſoever, ſo that if there was now a Law made for buying and ſelling of Places, yet a Plea for the Innocency of the Martyrs ought to be regarded and admitted above and before that Law; and as this is to the Comfort and Conſolation of all the Proteſtants in <hi>England,</hi> that they have not only their liberty and freedom to wear any Ribbon with a Motto of <hi>No Slavery, No Popery,</hi> and to Exerciſe and Enjoy their Religion, but that in their Days of Jubilation, when they make Bonfires, they have now their liberty and freedom to burn the Effegies of the Pope, ſo that certainly it is now no Crime for any of the Proteſtants in <hi>England</hi> to write or ſpeak againſt the Pope, or to vindicate the Innocency of the Martyrs againſt the Pope's Supremacy, and againſt the Errors of the Church of <hi>Rome.</hi> And as I ever was againſt the Pope, ſo I have ſufficient reaſon to ſhew any Deteſtation of him; but with all humble Submiſſion to the Judicious, hoping that where they find any Error in what I have now writ, they will Judg Charitably of me, and impute it to the Frailties of Human Nature, (as conſidering that no Man lives without a fault,) and ſo I humbly ſubmit to the inſtru<g ref="char:EOLhyphen"/>ction of the Learned; for I have a deſire, according to my weak Capacity, to vindicate the Inno<g ref="char:EOLhyphen"/>cency of the Martyrs againſt all the deriſions of the World; and accordingly, when I wore the Rib<g ref="char:EOLhyphen"/>bon at <hi>Oxford,</hi> with this Motto, <hi>No Slavery, No Popery,</hi> it was only by way of Antipathy to the Pope, and of the Popiſh Religion; and of which Motto of <hi>No Slavery, No Popery,</hi> as it is the Original occaſion of the late King <hi>James</hi>'s Abdication of the Government, as being a Papiſt, who is Dead in Law as to the Government of this Land; and of King <hi>William</hi> and Queen <hi>Mary</hi>'s Acceſſion to the Crown, as being Proteſtants, who are Juſtified by Law, and Goſpel too, in the Re<g ref="char:EOLhyphen"/>gal Authority, ſo it is a vindication of the Innocency of the Martyrs, and this is that which requires the Will and Affection of all Proteſtants, as to bury all Animoſities in Oblivion, in order to a Uni<g ref="char:EOLhyphen"/>verſal Reconciliation of all Proteſtants againſt the Pope, and all his Adherents that are for the Pope's Supremacy; for what is the Popiſh Religion but Popery, and for any Man to be for <hi>No Popery,</hi> is to deny the Popiſh Religion, and all the Errors of the Church of <hi>Rome,</hi> which is the very Cauſe that the Martyrs of Old Died in; ſo that in this Plea of <hi>No Slavery, No Popery,</hi> there is ſomething Expreſs'd, and ſomething Implied; that which is Expreſs'd, is <hi>No Slavery, No Popery,</hi> and that which is Implied, is a Liberty and Freedom againſt Popery and Idolatry, without any fear of Danger.</p>
+            <pb n="2" facs="tcp:187817:3"/>
+            <p>And certainly, now there is no Intereſt whatſoever ought to obſtruct the Liberty and Freedom of any of the Proteſtants in <hi>England</hi> againſt Popery, or in their denial of the Popiſh Religion; and there is no Plea comparable to this Plea of <hi>No Slavery, No Popery;</hi> for it is a good Plea for the King and Parliament, or for a Proteſtant King and Government, againſt the Pope's Supremacy, as it is a denial of the Popiſh Religion in defence of the Innocency of the Martyrs; and now to Ju<g ref="char:EOLhyphen"/>ſtifie this Plea of <hi>No Slavery, No Popery,</hi> as that it is a good Plea for the King and Country, and for the King and Parliament.</p>
+            <p>I begin with the Wiſdom of <hi>Solomon,</hi> the wiſeſt of Kings, <hi>Prov.</hi> 14.28. <hi>In the multitude of People is the Kings Honour;</hi> And <hi>Prov.</hi> 11.14. <hi>In the multitude of Counſellors there is ſafety:</hi> Theſe words are the words of wiſdom, and conſequently from God himſelf, who is the Eternal Fountain of Wiſdom. <hi>In the multitude of People is the Kings Honour;</hi> Hence I infer, That the Kings Honour cannot be alone in any one ſingle perſon whatſoever, but that it is in a general way in the whole Nation; and that it cannot be ſo much in a few perſons, as it is in a multitude of people; and this multitude of people may be underſtood all the Proteſtants in <hi>England;</hi> and as the King and Queen are God's Vicegerents, ſo God Almighty has Created a multitude of People for a vindication of Their Majeſties Crown and Dignity; and ſo hoping that all the Proteſtants in <hi>England</hi> will be Unani<g ref="char:EOLhyphen"/>mous in a general Vote, That whatſoever all the Proteſtants in <hi>England</hi> can do for the King and Queen, it is not comparable to that ineſtimable kindneſs of the King and Queens moſt Excellent Majeſties, in ſecuring and preſerving the Proteſtant Religion againſt Popery, <hi>&amp;c. And in the mul<g ref="char:EOLhyphen"/>titude of Counſellors there is ſafety,</hi> From hence I do alſo infer, That there cannot be ſo much ſafety in a few Counſellors, as there is in a multitude of Counſellors, and a multitude of Counſellors, by the conſent of the King and of all his People in Parliament, is the ſupport, power, ſtrength, de<g ref="char:EOLhyphen"/>fence and ſafety of the King and Kingdom, and then conſequently, that Man that now denies the Commons of <hi>England</hi> to be the greateſt Intereſt of the King and Kingdom, he is no better than a Cheat, and an Enemy to the King and Kingdom; for ſo it is apparent by King <hi>Solomon</hi> the wiſeſt of Kings, <hi>That in the multitude of Counſellors there is ſafety;</hi> that is to ſay, ſafety in point of Power to Defend, ſafety in point of Plenty to Preſerve, and ſafety in point of Knowledg and Wiſdom for the ratifying of Equity and Juſtice.</p>
+            <p>Firſt, Safety in point of power to defend; A multitude of Counſellors, by the conſent of the King, and of all h<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s People in Parliament, is not only the power, ſtrength, defence and ſafety of the King and Kingdom, but it is an Amicable Concord betwixt the King and all his Subjects.</p>
+            <p>Secondly, Safety in point of plenty to preſerve; for there muſt be plenty to preſerve the King's Perſon, as well as power to defend Him, or elſe there cannot be ſafety, and all this is Comprized in the Commons of <hi>England;</hi> for here is plenty of People, of Treaſure, and of all ſorts of Proviſions and Neceſſa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies for the ſupport and defence of Their Majeſties Royal Perſons and Government, ſo tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> here is that inexh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſtible Fountain of Treaſure in the Trade and Traffick of all the People of <hi>England,</hi> which is like the Tide that Ebbs and Flows, ſo that whatſoever Taxes they pay, it returns to them again in their way of Trade; and now whatſoever all the Proteſtants in <hi>England</hi> can do for the King and Queen, it is not comparable to that ineſtimable Kindneſs of the King and Queens moſt Excellent Majeſt es, in ſecuring and preſerving the Proteſtant Religion againſt Popery, <hi>&amp;c.</hi> And thus, as the Kings Honour is in the whole Nation, ſo I am for all the Proteſtants in <hi>England</hi> to ac<g ref="char:EOLhyphen"/>knowledg King <hi>William</hi> and Queen <hi>Mary</hi> to be ſupreme.</p>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hirdly, In the multitude of Counſellors there is ſafety, in point of Knowledg and Wiſdom, for the ratifying of Equity and Juſtice, in order for the ſecurity of Peace, and Tranquillity for all Men, to ſit under their own Vine, and to Reap the Fruits of their own Labour, and to render unto <hi>Ceſar</hi> the things that are <hi>Ceſars,</hi> and unto God the things that are Gods; and as the King and Queen are God's Vicegerents, ſo God Almighty, the wiſe Creator and Governour of the World, as he has Created a multitude of People for the King and Queens Honour, ſo he has Conſtituted a mul<g ref="char:EOLhyphen"/>titude of Counſellors for the ſafety of Their Majeſties Royal Perſons and Government; and now this is to the Glory of the <hi>Engliſh</hi> Nation, that they are Govern'd by the King and Queen, to<g ref="char:EOLhyphen"/>gether with the Lords and Commons, the multitude of Counſellors in Parliament, which is the Knowledg and Wiſdom of the Nation, according to the Proteſtant Religion, and this is the happieſt Government in the World. And as I do acknowledg King <hi>William</hi> and Queen <hi>Mary,</hi> together with the High Court of Parliament, to be the ſupreme Authority of the Nation, and that the King and Queens Honour cannot be alone in any one ſingle Perſon, but that it is in a general way in the whole Nation, and that the King's Honour cannot be ſo much in a few Perſons, as it is in a multitude of People; and accordingly, it is not in the power of any one of Their Majeſties Subjects to call a Par<g ref="char:EOLhyphen"/>liament, to appoint any Member to ſit in Parliament without the conſent of the King and the Coun<g ref="char:EOLhyphen"/>try, and to appoint any ſitting Member to be Speaker to the Houſe of Commons; for as it is in the King and Queens Prerogative to call a Parliament, ſo it is in the Countries Priviledg to Elect their Re<g ref="char:EOLhyphen"/>preſentatives to ſit in Parliament, and afterwards, as they ſit by the King's conſent, ſo it is in the
+<pb n="3" facs="tcp:187817:3"/> Houſe of Commons undoubted Right and Priviledg to Elect any ſitting Member to be their Speaker, without any Obligation to any one of Their Majeſties Subjects whatſoever, and now whatſoever kindneſs any Member receives from any one of his Election in any County, or Corporation, he is intereſted in the King and the Country; for it is very well known, that the Pope would aſſume to himſelf ſuch a Power h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re in this Land, as to call a Parliament, to appoint Members without the conſent of the King and the Country, and to appoint any ſitting Member to be Speaker to the Houſe of Commons, and conſequently to put down all Parliaments, ſo that none of the Proteſtants in <hi>England</hi> ſhall have any Right and Liberty, but what they give Credit to the Popes Infallibility; for if it ſhall be allowed for any Man to appoint any Member to ſit in Parliament, and to appoint a Speaker, without any liberty of the Subjects, the King has a power above the Pope, or any Man whatſoever; but that Man that now denies the Commons of <hi>England</hi> to be the greateſt intereſt of the King and Kingdom, he is no better than a Cheat, and an Enemy to the King and Kingdom, as aforeſaid, which I have now proved according to the Word of God in the Wiſdom of <hi>Solomon,</hi> that in the multitude of People is the King's Honour, and <hi>in the multitude of Counſellors there is ſafety;</hi> And as I do acknowledg King <hi>William</hi> and Queen <hi>Mary</hi> to be ſupreme, and the High Court of Par<g ref="char:EOLhyphen"/>liament the multitude of Counſellors for ſafety, the chiefeſt Counſel of the Nation againſt the Popes Infallibillity; ſo I do in the firſt place proteſt againſt the Popes Supremacy, and whatſoever Holineſs there is in the Pope, it is a fraudulent invention of his own to pick Peoples Pockets of the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Mony, concerning Indulgences and Abſolutions; for the Pope undertakes to Abſolve any Man of his Sins for a Sum of Mony, yea, and to renew his Abſolution for another Sum, ſo that if a Man has Mony enough, he may have all his Sins remitted for ſuch a time, but when he has no Mony he may go and be Damn'd for all his Holineſs; and beſides, when the Pope is Mad it is not Mony or Submiſſion that ſhall then obtain a Pardon, even as it was in the Bloody Queen <hi>Mary</hi>'s <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eign when a great many ſuffered Martyrdom for their Religion, they promiſed to ſave thoſe that woul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> c<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge their Religion, but when they had got them over to their Religion, yet notwithſtanding they would take them and Burn them, ſaying, that they ſhould then Damn both Body and Soul, and th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s they counted that they did God Service in killing of Hereticks; and accordingly, if the Pop<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> could now have his Will, as it is not Mony or Submiſſion that ſhould then obtain a Pardon, ſo he would Exe<g ref="char:EOLhyphen"/>cute his Revenge upon all the Proteſtants in <hi>England</hi> with the greateſt Barbarity he could invent, and when the Pope is Mad, and cannot Execute his Revenge, then he Curſeth by Bell, Book and Candle, which is the laſt Revenge of the Pope, when he ſhews his Teeth and cannot Bite, and this is the Pope's Sanctity, or <hi>Sanctum Sanctorum,</hi> which is neither derivative from Chriſt, nor from his Apoſtles, <hi>For Chriſt came not to deſtroy Men's Lives but to ſave them,</hi> Luke 9.56. And now I hope no Proteſtant whatſoever will be againſt me for acknowledging King <hi>William</hi> and Queen <hi>Mary</hi> to be ſupreme, and denying the Pope's Supremacy. And I alſo deny all the Errors of t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Church of <hi>Rome,</hi> as their Doctrin of Tranſubſtantiation, of changing the Elements of Bread and Wine into the real ſubſtance of the Body and Blood of Chriſt, and, as if Chriſt was Corporally and Perſonally preſent in their Adminiſtation of their Sacrament. I confeſs, Chriſt was perſonally pre<g ref="char:EOLhyphen"/>ſent when he was upon the Earth, and Adminiſtred the Sacrament to his Diſciples, but not ſince; but however, if they can make Chriſt of Bread and Wine, they could have done that many Years before Chriſt was upon the Earth, (if their Religion is of ſuch Antiquity,) for they will plead great Antiquity to their Religion; ſo that it is very probable, their Opinion may agree to the <hi>Jews</hi> who do not believe that Chriſt was ever upon the Earth, but do expect a Meſſiah to come; but this is a Juggling Trick of the Prieſts, for them to drink up all the Wine, and to content the People with a Bit of Wafer, or a Bit of Bread; whereas all Men may be Aſtoniſhed with Admiration at the infinite Condiſcention of Chriſt in taking our human Nature upon Him who was God manifeſt in the Fleſh, 1 <hi>Tim.</hi> 3, 16. Yea, to prove that Chriſt was upon the Earth, he was ſeen by multitudes, in working of Miracles, and was frequent with his Diſciples, and at that time when he brake Bread, and gave unto them, ſaying, <hi>This do in remembrance of me,</hi> Luke 22.19. 1 <hi>Cor.</hi> 11.24, 25. So that the Adminiſtration of the Sacrament, is a Pledg of the Death and Paſſion of Chriſt, in order for us to live upon him by Faith, in hopes of Eternal Life, through the Merits of Chriſt, our No<g ref="char:EOLhyphen"/>ble Benefactor, to whom be aſcribed all Gratitude, and Holy Adoration, for the Benefits we have re<g ref="char:EOLhyphen"/>ceived by him: And ſo it is for the Confirmation of the Faith of all true Believers, in a devout Com<g ref="char:EOLhyphen"/>memoration of the Agony and Bloody Sweat, of the Croſs and Paſſion, of the Barbarous Crucifixi<g ref="char:EOLhyphen"/>on, and of the precious Death and Burial of Chriſt, his Victorious Deſcention and Triumph over Death, the Grave and Hell, <hi>Rom.</hi> 6.9. <hi>Death hath no more Dominion over him.</hi> 1 Cor. 15.54. <hi>Death is ſwallowed up in Victory,</hi> in his glorious Reſurrection and Aſcention up into Heaven, where he ſit<g ref="char:EOLhyphen"/>eth on the Right Hand of God, continually making interceſſion for us, <hi>Heb.</hi> 7.25. <hi>Rom.</hi> 8 34. Who has made an Atonement and Expiation to God the Father, for the Sins of the whole World, to all that will believe in him, 1 <hi>John</hi> 2.2. &amp; <hi>John</hi> 3.15. (ſo that there is hopes of Salvation by a true Faith, in the Merits of Chriſt, for the worſt of Sinners, but there is no Salvation in the Pope,
+<pb n="4" facs="tcp:187817:4"/> who Exalts himſelf to be above Chriſt,) And that he ſhall come again in Glory to Judg both Quick and Dead, at which Glorious appearance of Chriſt, it ſhall be a Day of Jubilee to the Righteous, for then all Tears ſhall be wip'd away from their Eyes, as it is in <hi>Rev.</hi> 7.17. <hi>Iſa.</hi> 25.8. <hi>Rev.</hi> 21.4. all Troubles, Commotions and Perturbations, ſhall be turn'd into ſolid Peace and Tranquility, ſo that they ſhall never ſuffer under any more Miſery of Tormenting Pains and Anguiſh, groanings of Pain, Grief and Anxiety of Spirit; and then all Sorrow ſhall be turn'd into Mirth, for in that Day Chriſt will ſay to thoſe on his Right Hand, <hi>Come ye bleſſed of my Father, inherit the Kingdom prepared for you from the Foundation of the World,</hi> Matth. 25.31, 32, 33, 34. And thus Chriſt himſelf will re<g ref="char:EOLhyphen"/>ceive them into the Celeſtial Paradice, the Kingdom of Glory, where they ſhall receive Diadems of Righteouſneſs, of Life, Immortallity, Eternal Life, and of endleſs Bliſs and Glory, 2 <hi>Tim.</hi> 3.8. <hi>Rev.</hi> 2.10. For the Righteous ſhall be Crown'd with Eternal Glory, 1 <hi>Pet.</hi> 5.4. And thus they ſhall Enjoy Eternal Raptures of Joy and Felicity, in being made Partakers of the Inheritance with the Saints in immenſity of Light and Glory, and in ſinging Halelujahs with all the Martyrs, Saints and Angels in the Glorious Beatifick Viſion of the Omnipotent Eſſence, <hi>Iſa.</hi> 28.5. But it will be a Day of Ter<g ref="char:EOLhyphen"/>ror to the Wicked, when Chriſt ſhall pronounce that dreadful Sentence upon them, <hi>Go ye Curſed into Ever<g ref="char:EOLhyphen"/>laſting Fire prepared for the Devil and his Angels.</hi> Which is all in the Faith of the Worthy Receivers of the Lord's Supper; and thus they are Eſtabliſhed in their Faith, and hopes ot Heaven, of this Crown of Righteouſneſs, Immortallity, Eternal Life and Glory, through the Merits of Chriſt, againſt the Fears of Hell; and ſo the Sacrament to all true Believers, <hi>Is an outward viſible Sign of an inward Spiritual Grace.</hi> And ſo I do deny all Popiſh Idolatry, of their Worſhipping Chriſt upon the Croſs, the Picture of the Virgin <hi>Mary,</hi> Beads and Crucifixes, which is expreſly forbidden, <hi>Exod.</hi> 20.3, 4, 5, &amp;c. And I do likewiſe deny all Popiſh Prayers to the Virgin <hi>Mary,</hi> Saints and Angels, to make Interceſſion; <hi>For there is but one Advocate betwixt God and Man Chriſt Jeſus,</hi> 1 Tim. 2.5. 1 John 2.1. Heb. 7.25. Acts 4.12. And I do alſo deny all the Papiſts Works of Merits, and of their Oſtentation in their Works of Supererogation, and though they have the Proud Phariſee in the Goſpel to vindicate them in their Works of Merits; yet I having nothing to truſt and hope in, but in and through the Merits of Chriſt for Salvation; for whatſoever I can do, I am but ſinful Duſt and Aſhes, and ſo I may ſay with <hi>Job,</hi> Chap. 7. v. 20. <hi>I have Sinned, what ſhall I ſay unto thee, Oh thou Preſerver of Men?</hi> And <hi>Job</hi> 42.6. <hi>Wherefore I Abhor my ſelf, and Repent in Duſt and Aſhes.</hi> And ſo with the Publican, <hi>Luke</hi> 18.13. <hi>God be Merciful to me a Sinner;</hi> and now that Man that ſaith, he hath no Sin, he acknowledges the Popes Infallibility, and the truth is not in him, 1 <hi>John</hi> 1.8. And thus I deny all Popiſh Abſolution, for there is no Man can forgive Sins that is committed againſt God, but God only, <hi>Dan</hi> 9.9. &amp; <hi>Epheſ.</hi> 1.7. And ſo I deny all Venial Sins, (among Papiſts) whoſe Guilt their bare Confeſſion doth Expiate; and as any of them can obtain Abſolution for a Sum of Mony, upon a bare Confeſſion of their Sins, ſo when any of them deſires to be Excuſed from Con<g ref="char:EOLhyphen"/>feſſion of their Sins, it is but giving a greater Sum of Mony to their Prieſt, or Father Confeſſor, (or whoſoever he is,) and he will take their Guilt and Confeſſion upon himſelf; and this is their Ex<g ref="char:EOLhyphen"/>piation, which is contrary to the Word of God, <hi>Iſa.</hi> 53.4, 5. <hi>Heb.</hi> 9.28. 1 <hi>John</hi> 2.2. And beſides, we are to Confeſs unto God, <hi>Rom.</hi> 14.11, 12. And of their Extreme Unction, which is alſo againſt the Word of God, 1 <hi>Cor.</hi> 1.21. 1 <hi>Joh.</hi> 2.20. And of their Prayers for the Dead, and Purgatory; for after the Soul is ſeparated from the Body, it ſhall remain ſo till the general Reſurrection; at which time the Souls and Bodies of all Perſons ſhall be reunited, and ſhall receive according to their Works, whether they be Good, or Evil, <hi>Eccleſ.</hi> 11.3. latter part. And whatſoever falſe Doctrins and Errors of the Church of <hi>Rome</hi> I utterly deny. And now with all humble Submiſſion to all Proteſtants in general, I hope no Proteſtant whatſoever will be againſt me for vindicating the Innocency of the Martyrs, in denying the Errors of the Church of <hi>Rome; For Chriſt is the Propitiation for the Sins of the whole World, ſo, That whoſoever believeth in him ſhould not Periſh, but have Everlaſting Life,</hi> 1 Joh. 2.2. <hi>&amp;</hi> John 3.15. Which implies, that there is no Sinner whatſoever Exempted from a Faith in the Merits of Chriſt, and that by a true Faith in the Merits of Chriſt, there is hopes of Salvation for the worſt of Sinners, but there is no Salvation in the Pope, who Exalts himſelf to be above Chriſt; and ſo the Pope is indebted to all the Proteſtants in <hi>England,</hi> upon account of Religion, for I know that the Pope is againſt all the Proteſtants in <hi>England,</hi> becauſe they are for the Word of God; and ſo I having conſider'd, that the Word of God being the Foundation of the Chriſtian Religion; ſo that it is that Word that no Man whatſoever can be ſaved without it, becauſe the Word of God is pe<g ref="char:EOLhyphen"/>remptory in it, <hi>John</hi> 3.18. 1 <hi>John</hi> 5.10. <hi>Acts</hi> 10.43. And it is the Word of God that vindicates the King, <hi>Matth.</hi> 22.21. And it is the Word of God that vindicates a multitude of People, and a multitude of Counſellors, for the King and Queen's Honour, and for the ſafety of Their Majeſties Royal Perſons and Government, <hi>Prov.</hi> 14.28. &amp; 11.14. And thus it is the Word of God by which all the Learned Divines in the Land maintains the Proteſtant Religion, againſt the Errors of the Church of <hi>Rome;</hi> and as I do acknowledg God Almighty the Wiſe Creatour and Governour of the World, ſo I am for the Word of God. Therefore I humbly acquaint your Honours with a defi<g ref="char:EOLhyphen"/>nition
+<pb n="5" facs="tcp:187817:4"/> of my Religion, and accordingly I do acknowledg and confeſs my ſelf a Proteſtant, and ſuch a Proteſtant as doth proteſt againſt all Erroneous Ways and Principles, and conſequently I deſire to imitate that which is moſt conſiſtent to the Sacred <hi>Verbum Dei,</hi> and whatſoever is inconſiſtent, or repugnant thereunto, I deſire to utterly Deteſt, Abjure, Abandon and Abhor; or thus, as I do ac<g ref="char:EOLhyphen"/>knowledg and confeſs my ſelf ſuch a Proteſtant as doth Proteſt againſt all Erroneous Ways and Principles, ſo I deſire to practice and perform all thoſe Duties which are required and commanded in the Sacred Word of God, and whatſoever is therein forbidden, or not implied as a Duty, I deſire to utterly Deteſt, Abjure, Abandon and Abhor, but as a denial of the Popes Infallibility, there is <hi>Nemo ſine Crimine Vivit,</hi> no Man lives without a Fault; ſo that all Men are guilty in the ſight of God, and that there is no hopes of Salvation but in and through the Merits of Chriſt, and I being weak frail Fleſh and Blood, and ſubject to Infirmities, as other Men are, ſo I may ſay with the Apo<g ref="char:EOLhyphen"/>ſtle <hi>Paul, That when I would do Good, Evil is preſent with me,</hi> Rom. 7.21. For there is <hi>Habemus in<g ref="char:EOLhyphen"/>clinationem ad Malum &amp; averſationem ad B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>num;</hi> We have an inclination to that which is Evil, and an averſion to that which is Good; <hi>Rom.</hi> 9.16. <hi>So then it is not of him that willeth, nor of him that runneth, but of God that ſheweth Mercy,</hi> whoſe Mercy is as far above the Mercy of the Pope, as Heaven is above Hell; for the Mercy of the Pope is Cruelty, but the Mercy of God is full of Clemency, Compaſſion, Forbearance and Long-ſuffering, <hi>Pſal.</hi> 57.10. <hi>For thy Mercy is great unto the Heavens;</hi> but the Mercy of the Pope is Diabollical; but I hope God Almighty will have Mercy upon the King and Queen, and al the Proteſtants in <hi>England,</hi> as to preſerve us <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rom the Mercy of the Pope, whoſe Mercy is Cruelty, <hi>Matth.</hi> 7.15. So that the Pope is the Devil's Vicegerent here on Earth, who have their Falſe Prop<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ets in Sheep's Clothing, but inwardly they are Ravening Wolves, and thus the Devil Rampant, like a Roaring Lion, with his Vicegerent, goes up and down with their Sheep's Clothing and Ravening Wolves ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>king whom they may devour, (and thus, as the Old Saying is, <hi>To ſpeak the Truth is to ſhame the Devil,</hi> yea, and the Pope too; but I am for a Venera<g ref="char:EOLhyphen"/>tion to Superiority, and ſo I am for the Proteſtant Religion to be Eſteemed above the Popiſh Religi<g ref="char:EOLhyphen"/>on, or I am for the Tripple Crown to be kept under the Proteſtants,) and accordingly, thoſe that are now for a Popiſh King and Governour, or a Popiſh Succeſſor, they may go to <hi>Rome</hi> and there ac<g ref="char:EOLhyphen"/>knowledg the Pope's Supremacy, and ſo pay Homage to the Pope, and Kiſs his Great Toe, and there is no doubt but that the Pope will give them his Benediction, and call them i<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> good Children, but when I am to Kiſs the Pope's Great Toe, if I could I would bite it off; and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>en afterwards, thoſe that have ſuch an Affection for the Pope, inſtead of Kiſſing his Great Toe, they may Kiſs his Back<g ref="char:EOLhyphen"/>ſide; and this is Biteing off the Pope's Great Toe, that if the Pope is living in Perſon, he is Dead in Law as to the Government of this Land, ſo that no Papiſt whatſoever has any <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight and Title to the Crown of <hi>England;</hi> and accordingly, as I do acknowledg King <hi>William</hi> and Q<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>een <hi>M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ry</hi> to be ſupreme. And as the Parl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ament was call'd by the King and Queen, and do ſit by Their Maj<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſties Prerogative, ſo it is not in the power of any one of Their Majeſties Subjects whatſoever to c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll a Parliament, to appoint Members to ſit in Parliament, or to appoint any ſitting Member t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be Speaker to the Houſe of Commons, and that the King's Honour cannot be alone in any one ſingle <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erſon, but that it is in a general way in the whole Nation, and that it cannot be ſo much in a few Pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns, as it is in a multitude of People, and as the Convention Parliament denied the Pope's Supremacy up<g ref="char:EOLhyphen"/>on their Coronation of King <hi>William</hi> and Queen <hi>Mary,</hi> ſo I am for all the Proteſtants in <hi>England</hi> to acknowledg King <hi>William</hi> and Queen <hi>Mary</hi> to be ſupreme, ſo that whatſoever all the Pro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tants in <hi>England</hi> can do for the King and Queen, it is not comparable to that ineſtimable Kindneſs of the King and Queens Moſt Excellent Majeſties, in ſecuring and preſerving the Proteſtant Religion againſt Popery, <hi>&amp;c.</hi> For it is the Providence of God that has brought Their preſent Maj<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſties to the Throne (whom God grant long to Reign,) to preſerve this Nation from an Inundation of Popery; yea, further, that Man that is now for a Popiſh King and Governour, or a Popiſh Succeſſor, he is no better then a Sheep's Clothing or an Agen<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>to the Devil and the Pope and inwardly he is a Popiſh<g ref="char:EOLhyphen"/>ly Affected Ravening Wolf; and accordingly, though the Pope may be living in Perſon, he is dead in Law, and Goſpel too, as to the Government of this Land, ſo that no Papiſt whatſoever has any Right and Title to the Crown of <hi>England;</hi> and thus I am for a Veneration to Superiority, as that I am for the Tripple Crown to be kept under the Proteſtants, and for the Proteſtant Religion to be Eſteemed above the Popiſh Religion, ſo that none of the Proteſtants in <hi>England</hi> may live in fear of their Religion, Lives and Liberties, by the Crafty Machinations and Inſinuations of any Ravening Wolf. For the end and deſign of Chriſt's coming into the World, was for the Redemp<g ref="char:EOLhyphen"/>tion of Mankind, <hi>From the Bondage of Corruption into the Glorious Liberty of the Children of God,</hi> Rom. 8.21. And thus the end and deſign of Chriſt's coming into the World, was for the ad<g ref="char:EOLhyphen"/>vancement of his Kingdom to the downfal of Antichriſt, that Whore of <hi>Babylon</hi> the Pope, <hi>Pſal.</hi> 103.19. <hi>For his Kingdom Ruleth over all.</hi> But the Pope is the Mother of Harlots, and Abomina<g ref="char:EOLhyphen"/>tions of the Earth, <hi>Rev.</hi> 17.5. &amp; 18.2. &amp; 19.2. &amp; 6.10.</p>
+            <pb n="6" facs="tcp:187817:5"/>
+            <p>And ſo I Conclude, according to the Wiſdom of <hi>Solomon</hi> the wiſeſt of Kings, as, That the King's Honour is Aſſerted in a multitude of People, and not in any one ſingle Perſon whatſoever; and thus I am for Their Majeſties Honour, that whatſoever the whole Nation can do for King <hi>William</hi> and Queen <hi>Mary,</hi> who are God's Vicegerents, it is not comparable to that ineſtimable Kindneſs of the King and Queen's Moſt Excellent Majeſties, in redeeming them from Popery, <hi>&amp;c.</hi> And this is from him,</p>
+            <closer>
+               <signed>
+                  <hi>Who Preſtrates himſelf to the Mercy of all Proteſtants, humbly praying, that no Proteſtant whatſoever will now be Offended at him, for acknowledging King</hi> William <hi>and Queen</hi> Mary <hi>to be Supreme, and denying the Pope's Supremacy, and the Popiſh Religion. Abel Carew.</hi>
+               </signed>
+            </closer>
+            <pb facs="tcp:187817:6"/>
+            <pb facs="tcp:187817:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
